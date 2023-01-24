@@ -1,0 +1,21 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\kursproject\bin\Debug\kursproject.exe.config
+E:\ИАС-18-1\kursproject\kursproject\bin\Debug\kursproject.exe.config
+D:\Курсовой проект\kursproject\kursproject\bin\Debug\kursproject.exe.config
+D:\Курсовой проект\kursproject\kursproject\bin\Debug\kursproject.exe
+D:\Курсовой проект\kursproject\kursproject\bin\Debug\kursproject.pdb
+D:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.csprojResolveAssemblyReference.cache
+D:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.Form1.resources
+D:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.Properties.Resources.resources
+D:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.csproj.GenerateResource.Cache
+D:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.exe
+D:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.pdb
+G:\Курсовой проект\kursproject\kursproject\bin\Debug\kursproject.exe.config
+G:\Курсовой проект\kursproject\kursproject\bin\Debug\kursproject.exe
+G:\Курсовой проект\kursproject\kursproject\bin\Debug\kursproject.pdb
+G:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.csprojAssemblyReference.cache
+G:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.Form1.resources
+G:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.Properties.Resources.resources
+G:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.csproj.GenerateResource.cache
+G:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.csproj.CoreCompileInputs.cache
+G:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.exe
+G:\Курсовой проект\kursproject\kursproject\obj\Debug\kursproject.pdb

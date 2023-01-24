@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Shop>
+    <Name>Acer Nitro 5</Name>
+    <Category>Ноутбук</Category>
+    <Edition>Мышь</Edition>
+    <Price>38400</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>Apple iPad Pro</Name>
+    <Category>Планшетный ПК</Category>
+    <Edition>нет</Edition>
+    <Price>40490</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>ASUS Vivo AiO</Name>
+    <Category>Моноблок</Category>
+    <Edition>Мышь, Клавиатура</Edition>
+    <Price>62612</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>ASUS VivoBook</Name>
+    <Category>Ноутбук</Category>
+    <Edition>Мышь</Edition>
+    <Price>43781</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>ASUS ZenBook 13</Name>
+    <Category>Ноутбук</Category>
+    <Edition>Мышь, Клавиатура</Edition>
+    <Price>58150</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>DELL Vostro 5481</Name>
+    <Category>Ноутбук</Category>
+    <Edition>Мышь, Клавиатура</Edition>
+    <Price>38475</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>HUAWEI MateBook X Pro</Name>
+    <Category>Ноутбук</Category>
+    <Edition>Мышь</Edition>
+    <Price>93900</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>Lenovo ThinkCentre</Name>
+    <Category>Настольный ПК</Category>
+    <Edition>Мышь, Клавиатура</Edition>
+    <Price>53820</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>Samsung Galaxy Tab S5e</Name>
+    <Category>Планшетный ПК</Category>
+    <Edition>нет</Edition>
+    <Price>30189</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>Sumsung Galaxy Tab</Name>
+    <Category>Планшетный ПК</Category>
+    <Edition>нет</Edition>
+    <Price>39999</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+  <Shop>
+    <Name>Xiaomi Mi Notebook 15.6 Lite</Name>
+    <Category>Ноутбук</Category>
+    <Edition>Мышь, Клавиатура</Edition>
+    <Price>37900</Price>
+    <Count>0</Count>
+    <Cost>0</Cost>
+  </Shop>
+</NewDataSet>
